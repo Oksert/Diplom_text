@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.12)  13 APR 2015 19:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.12)  14 APR 2015 11:55
 entering extended mode
-**Текст.tex
-("C:\Users\admin\Desktop\Текст и презентация\Текст.tex"
+**текст_диплома_Треско.tex
+
+("C:\Users\admin\Desktop\Текст и презентация\текст_дип
+лома_Треско.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -886,7 +888,8 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \TX@cols=\count135
 \TX@ftn=\toks32
 )
-("C:\Users\admin\Desktop\Текст и презентация\Текст.aux"
+("C:\Users\admin\Desktop\Текст и презентация\текст_дип
+лома_Треско.aux"
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 4.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
@@ -1119,17 +1122,7 @@ Overfull \hbox (5.72064pt too wide) in paragraph at lines 192--193
 \T2A/cmr/m/n/14.4 JavaScript|  
  []
 
-[9]
-
-LaTeX Warning: Citation `AdaBoost' on page 10 undefined on input line 216.
-
-
-LaTeX Warning: Citation `ADT' on page 10 undefined on input line 216.
-
-
-LaTeX Warning: Citation `kNN' on page 10 undefined on input line 217.
-
-[10] [11]
+[9] [10] [11]
 
 LaTeX Warning: Citation `multiagent' on page 12 undefined on input line 243.
 
@@ -1225,11 +1218,18 @@ t Tests
  []
 
 
+Underfull \hbox (badness 1603) in paragraph at lines 478--480
+[]\T2A/cmr/m/it/12 Schapire R. E., Singer Y. BoosTexter \T2A/cmr/m/n/12 A boost
+ing-based system for text
+ []
+
+
 AED: lastpage setting LastPage
 [22
 
 ]
-("C:\Users\admin\Desktop\Текст и презентация\Текст.aux")
+("C:\Users\admin\Desktop\Текст и презентация\текст_дип
+лома_Треско.aux")
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
@@ -1242,13 +1242,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6858 strings out of 493921
- 101989 string characters out of 3144876
- 174854 words of memory out of 3000000
- 9934 multiletter control sequences out of 15000+200000
+ 6859 strings out of 493921
+ 102274 string characters out of 3144876
+ 174874 words of memory out of 3000000
+ 9935 multiletter control sequences out of 15000+200000
  19698 words of font info for 42 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 50i,11n,42p,1164b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 50i,11n,42p,1192b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\admin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
 ti1200.pk> <C:\Users\admin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\d
 pi600\labx1728.pk> <C:\Users\admin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\
@@ -1262,9 +1262,10 @@ min\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lacc1440.pk><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Текст.pdf (22 pages, 626113 bytes).
+Output written on текст_диплома_Треско.pdf (22 pages, 631298 
+bytes).
 PDF statistics:
- 686 PDF objects out of 1000 (max. 8388607)
+ 699 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
