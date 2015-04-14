@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.12)  14 APR 2015 12:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.12)  14 APR 2015 12:16
 entering extended mode
 **текст_диплома_Треско.tex
 
@@ -1174,17 +1174,13 @@ Package pdftex.def Info: pic/arch.png used on input line 312.
 [16
 
  <C:/Users/admin/Desktop/Текст и презентация/pic/arch.png>] [1
-7]
-
-LaTeX Warning: Citation `unitTest' on page 18 undefined on input line 392.
-
-<pic/test.png, id=76, 611.28375pt x 415.5525pt>
+7] <pic/test.png, id=76, 611.28375pt x 415.5525pt>
 File: pic/test.png Graphic file (type png)
  <use pic/test.png>
 Package pdftex.def Info: pic/test.png used on input line 398.
 (pdftex.def)             Requested size: 398.33858pt x 270.79073pt.
- [18]
-<pic/test1.png, id=83, 625.21953pt x 156.585pt>
+
+[18] <pic/test1.png, id=83, 625.21953pt x 156.585pt>
 File: pic/test1.png Graphic file (type png)
  <use pic/test1.png>
 Package pdftex.def Info: pic/test1.png used on input line 416.
@@ -1222,13 +1218,19 @@ rosoft.com/ru-
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 475--477
+Underfull \hbox (badness 10000) in paragraph at lines 475--477
+[]\T2A/cmr/m/it/12 Create and run unit tests. \T2A/cmr/m/n/12 (https://www.visu
+alstudio.com/en-us/get-
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 478--480
 []\T2A/cmr/m/it/12 Walkthrough: Creating and Running a Load Test Containing Uni
 t Tests
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 481--483
+Underfull \hbox (badness 1603) in paragraph at lines 484--486
 []\T2A/cmr/m/it/12 Schapire R. E., Singer Y. BoosTexter \T2A/cmr/m/n/12 A boost
 ing-based system for text
  []
@@ -1254,7 +1256,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  6861 strings out of 493921
  102296 string characters out of 3144876
- 174879 words of memory out of 3000000
+ 174884 words of memory out of 3000000
  9937 multiletter control sequences out of 15000+200000
  19698 words of font info for 42 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -1272,7 +1274,7 @@ min\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lacc1440.pk><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on текст_диплома_Треско.pdf (22 pages, 632550 
+Output written on текст_диплома_Треско.pdf (22 pages, 632619 
 bytes).
 PDF statistics:
  703 PDF objects out of 1000 (max. 8388607)
