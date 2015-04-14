@@ -99,14 +99,23 @@
 	\item {\bf Системы предотвращения утечки данных (англ. Data Loss Prevention, DLP)} -
 	программные решения для предотвращения утечек конфиденциальной информации и минимизации других рисков, связанных с внутренними угрозами.
 \end{itemize}
-\subsubsection{Основные методы классификации данных в корпоративных системах}
-Классификация данных поддерживается в большинстве ECM систем. Существуют три основных подхода к классификации данных в ECM системах
+\subsubsection{Основные методы сбора и классификации данных в корпоративных системах}
+Поиск и анализ информации в ECM системах происходит следующим образом:
+\begin{itemize}
+	\item {\bf Сбор данных.} Системы сбора содержат компоненту, установленную на пользовательском компьютере и отвечающую за мониторинг деятельности пользователя. В терминологии IBM данные компоненты называются Искателями \cite{searcher}
+	\item {\bf Применение методов анализа документов.} В терминологии IBM данный этап называется аналитическим конвейером \cite{analitic}.
+	\item {\bf Индексация данных.} Компоненты индексации добавляют в индекс информацию о новых и измененных документах
+	\cite{idx1,idx2,idx3}
+\end{itemize}
+
+Существуют три основных подхода к классификации данных в ECM системах
 \begin{itemize}
 	\item {\bf Классификация на основе обучающей выборки} (IBM Content Classification \cite{ContentClassification}, Symantec eDiscovery \cite{Symantec})
 	\item {\bf Классификация на основе заданных правил}. Принадлежность документа к тому или иному классу определяется на основе эвристических правил (сигнатур). Правила могут формироваться на основе контекста – имя отправителя, директория создания и т.п., а также на основе контента – шаблоны текста, ключевые слова и т.п. 
 	\item {\bf Определение категорий в неизвестных документах}.
 	В задаче кластеризации нет предопределенного набора классов. Исходное множество документов разбивается на подмножество таким образом, чтобы документы в различных подмножествах существенно отличались.
 \end{itemize}
+
 В DLP системах выделяют следующие технологии классификации данных:
 \begin{itemize}
 	\item {\bf Цифровые отпечатки (англ. digital fingerprint)} - технология предназначена для защиты больших по объему документов, содержание которых не изменяется или меняется незначительно. Детектор цифровых отпечатков позволяет автоматически обнаруживать в анализируемом тексте цитаты из документов-образцов, содержащих конфиденциальную информацию.
@@ -462,6 +471,21 @@
 	\bibitem{bkf}
 	\textit {Infowatch БКФ }
 	{(http://www.infowatch.ru/technologies)}
+	\bibitem {searcher}
+	\textit{text}{122.	Component overview (IBM Watson Content Analytics 3.5.0)}
+	{(http://www-01.ibm.com/support/knowledgecenter/SS5RWK\_3.5.0/com.ibm.discovery.es.nav.doc/iiysaovcomp.htm?lang=en)}
+	\bibitem{analitic}
+	\textit{Официальная документация IBM в Интернет}
+	{(http://www-01.ibm.com/support/knowledgecenter/SS5RWK\_3.5.0/com.ibm.discovery.es.nav.doc/iiysaovcomp.htm?lang=en)}
+	\bibitem{idx1}
+	\textit{Content Analytics. Официальный сайт OpenText в Интернет}
+	{(http://www.opentext.com/what-we-do/products/discovery/content-analytics)}
+	\bibitem{idx2}
+	\textit{EMC Kazeon File Intelligence}
+	{(http://www.emc.com/content-management/emc-kazeon-file-intelligence.htm)}
+	\bibitem{idx3}
+	\textit{Using the Taxonomy Proposer to discover new categories}
+	{(http://www-01.ibm.com/support/knowledgecenter/}
 	\bibitem{MachLearn}
 	\textit {Symantec Machine Learning}
 	{(http://eval.symantec.com/mktginfo/enterprise/)}
