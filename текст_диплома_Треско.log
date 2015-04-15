@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.12)  14 APR 2015 13:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.12)  15 APR 2015 03:39
 entering extended mode
 **С‚РµРєСЃС‚_РґРёРїР»РѕРјР°_РўСЂРµСЃРєРѕ.tex
 
@@ -899,19 +899,25 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 LaTeX Warning: Label `fig:low_sigma' multiply defined.
 
 
-LaTeX Warning: Label `fig:low_sigma' multiply defined.
-
-
-LaTeX Warning: Label `fig:low_sigma' multiply defined.
-
-
-LaTeX Warning: Label `fig:low_sigma' multiply defined.
-
-
-LaTeX Warning: Label `fig:low_sigma' multiply defined.
+LaTeX Warning: Label `tab:far' multiply defined.
 
 
 LaTeX Warning: Label `tab:far' multiply defined.
+
+
+LaTeX Warning: Label `fig:low_sigma' multiply defined.
+
+
+LaTeX Warning: Label `fig:low_sigma' multiply defined.
+
+
+LaTeX Warning: Label `fig:low_sigma' multiply defined.
+
+
+LaTeX Warning: Label `fig:low_sigma' multiply defined.
+
+
+LaTeX Warning: Label `fig:low_sigma' multiply defined.
 
 
 LaTeX Warning: Label `fig:low_sigma' multiply defined.
@@ -1013,47 +1019,36 @@ ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box38
-Package epstopdf Info: Source file: <msu.eps>
-(epstopdf)                    date: 2015-04-12 17:32:53
-(epstopdf)                    size: 29500 bytes
-(epstopdf)             Output file: <msu-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-04-12 17:38:21
-(epstopdf)                    size: 3681 bytes
-(epstopdf)             Command: <epstopdf --outfile=msu-eps-converted-to.pdf ms
-u.eps>
-(epstopdf)             \includegraphics on input line 27.
-Package epstopdf Info: Output file is already uptodate.
+ <msu.jpg, id=1, 187.902pt x 101.178pt>
+File: msu.jpg Graphic file (type jpg)
 
-<msu-eps-converted-to.pdf, id=1, 187.70125pt x 101.37875pt>
-File: msu-eps-converted-to.pdf Graphic file (type pdf)
-
-<use msu-eps-converted-to.pdf>
-Package pdftex.def Info: msu-eps-converted-to.pdf used on input line 27.
-(pdftex.def)             Requested size: 254.65219pt x 137.5484pt.
+<use msu.jpg>
+Package pdftex.def Info: msu.jpg used on input line 27.
+(pdftex.def)             Requested size: 254.65219pt x 137.1278pt.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/admin/Desktop/Рў
-РµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/msu-eps-converted-to.pdf>] [2]
-<pic/ML_Classification.png, id=19, 569.12625pt x 201.75375pt>
+РµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/msu.jpg>] [2]
+<pic/ML_Classification.png, id=16, 569.12625pt x 201.75375pt>
 File: pic/ML_Classification.png Graphic file (type png)
 
 <use pic/ML_Classification.png>
-Package pdftex.def Info: pic/ML_Classification.png used on input line 78.
+Package pdftex.def Info: pic/ML_Classification.png used on input line 81.
 (pdftex.def)             Requested size: 398.33858pt x 141.21742pt.
 
-Overfull \hbox (3.50279pt too wide) in paragraph at lines 75--83
+Overfull \hbox (3.50279pt too wide) in paragraph at lines 78--86
 []\T2A/cmr/m/n/12 Настоящая ра-бо-та по-свя-ще-на ис-сле-до-ва-нию и раз-ра-бот
 -ке про-грамм-ных средств
  []
 
 
-Overfull \hbox (6.57542pt too wide) in paragraph at lines 75--83
+Overfull \hbox (6.57542pt too wide) in paragraph at lines 78--86
 \T2A/cmr/m/n/12 си-фи-ка-ции мно-го-тем-ных до-ку-мен-тов (multi-label classifi
 cation), за-клю-ча-ет-ся в опре-
  []
 
 
-Overfull \hbox (10.53214pt too wide) in paragraph at lines 88--90
+Overfull \hbox (10.53214pt too wide) in paragraph at lines 91--93
 \T2A/cmr/m/n/12 бы га-ран-ти-ро-вать, что толь-ко ма-те-ри-а-лы с за-про-шен-но
 й бизнес-информацией
  []
@@ -1062,217 +1057,264 @@ Overfull \hbox (10.53214pt too wide) in paragraph at lines 88--90
 
  <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/ML_Classifica
 tion.png>]
-Overfull \hbox (20.13857pt too wide) in paragraph at lines 99--101
+Overfull \hbox (20.13857pt too wide) in paragraph at lines 102--104
 []\T2A/cmr/bx/n/12 Системы предот-вра-ще-ния утеч-ки дан-ных (ан-гл. Data Loss 
 Prevention,
  []
 
-
-Overfull \hbox (27.16281pt too wide) in paragraph at lines 113--114
+[4]
+Overfull \hbox (27.16281pt too wide) in paragraph at lines 116--117
 []\T2A/cmr/bx/n/12 Классификация на ос-но-ве обу-ча-ю-щей вы-бор-ки \T2A/cmr/m/
 n/12 (IBM Content Classification
  []
 
-[4]
-Overfull \hbox (29.46028pt too wide) in paragraph at lines 122--123
+
+Overfull \hbox (29.46028pt too wide) in paragraph at lines 126--127
 []\T2A/cmr/bx/n/12 Анализ шаб-ло-нов \T2A/cmr/m/n/12 - тех-но-ло-гия пред-на-зн
 а-че-на для де-тек-ти-ро-ва-ния алфавитно-
  []
 
-[5] <pic/Nature.png, id=30, 846.91406pt x 267.24844pt>
-File: pic/Nature.png Graphic file (type png)
- <use pic/Nature.png>
-Package pdftex.def Info: pic/Nature.png used on input line 135.
-(pdftex.def)             Requested size: 398.33858pt x 125.69649pt.
-
-[6 <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/Nature.png>
-] [7] [8
-
-]
-Overfull \hbox (0.41234pt too wide) in paragraph at lines 172--173
-[]\T2A/cmr/m/n/12 Агентов мо-ни-то-рин-га, рас-по-ло-жен-ных на каж-дом из поль
--зо-ва-тель-ских ком-
- []
-
-[9
-
-]
-LaTeX Font Info:    Try loading font information for U+msa on input line 193.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+LaTeX Font Info:    Try loading font information for U+msa on input line 133.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 193.
+LaTeX Font Info:    Try loading font information for U+msb on input line 133.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (4.15941pt too wide) in paragraph at lines 195--195
+) [5] [6]
+<pic/Nature.png, id=30, 846.91406pt x 267.24844pt>
+File: pic/Nature.png Graphic file (type png)
+ <use pic/Nature.png>
+Package pdftex.def Info: pic/Nature.png used on input line 166.
+(pdftex.def)             Requested size: 398.33858pt x 125.69649pt.
+
+[7 <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/Nature.png>
+] [8] [9
+
+] [10
+
+]
+Overfull \hbox (4.15941pt too wide) in paragraph at lines 225--225
 \T2A/cmr/m/n/14.4 Crossrider|  
  []
 
 
-Overfull \hbox (4.7844pt too wide) in paragraph at lines 195--196
+Overfull \hbox (4.7844pt too wide) in paragraph at lines 225--226
 \T2A/cmr/m/n/14.4 WebMynd|  
  []
 
 
-Overfull \hbox (5.72064pt too wide) in paragraph at lines 201--201
+Overfull \hbox (5.72064pt too wide) in paragraph at lines 231--231
 \T2A/cmr/m/n/14.4 JavaScript|  
  []
 
 
-Overfull \hbox (5.72064pt too wide) in paragraph at lines 201--202
+Overfull \hbox (5.72064pt too wide) in paragraph at lines 231--232
 \T2A/cmr/m/n/14.4 JavaScript|  
  []
 
-[10] [11] [12]
+[11]
 
-LaTeX Warning: Citation `multiagent' on page 13 undefined on input line 252.
+LaTeX Warning: Command \cyrg invalid in math mode on input line 257.
 
 
-Overfull \hbox (1.0136pt too wide) in paragraph at lines 254--255
+LaTeX Warning: Command \cyrd invalid in math mode on input line 257.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 257.
+
+Missing character: There is no г in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no е in font cmr12!
+
+Overfull \hbox (2.04388pt too wide) in paragraph at lines 275--276
+[]\T2A/cmr/m/n/12 Для до-сти-же-ния ка-че-ства клас-си-фи-ка-ции, удо-вле-тво-р
+я-ю-ще-го по-треб-но-стям
+ []
+
+[12] [13]
+Overfull \hbox (1.87949pt too wide) in paragraph at lines 308--309
+[]\T2A/cmr/m/n/12 При при-ме-не-нии ал-го-рит-ма пер-сеп-тро-на для би-нар-ной 
+клас-си-фи-ка-ции обес-
+ []
+
+[14] [15] [16]
+Overfull \hbox (1.0136pt too wide) in paragraph at lines 388--389
 []\T2A/cmr/bx/n/12 Агента мо-ни-то-рин-га\T2A/cmr/m/n/12 , со-би-ра-ю-ще-го ин-
 фор-ма-цию и от-прав-лю-ще-го ее аген-
  []
 
-<pic/agent1.png, id=53, 399.4122pt x 349.305pt>
+<pic/agent1.png, id=75, 399.4122pt x 349.305pt>
 File: pic/agent1.png Graphic file (type png)
  <use pic/agent1.png>
-Package pdftex.def Info: pic/agent1.png used on input line 261.
+Package pdftex.def Info: pic/agent1.png used on input line 395.
 (pdftex.def)             Requested size: 284.52756pt x 248.83441pt.
- [13
-
- <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/agent1.png>]
-Overfull \hbox (0.57095pt too wide) in paragraph at lines 277--278
-[]\T2A/cmr/m/n/12 Каждый из поль-зо-ва-те-лей, яв-ля-ет-ся ис-точ-ни-ком со-би-
-ра-е-мой ин-фор-ма-ции. При
- []
-
-<pic/agent2.png, id=60, 614.295pt x 315.1775pt>
-File: pic/agent2.png Graphic file (type png)
- <use pic/agent2.png>
-Package pdftex.def Info: pic/agent2.png used on input line 281.
-(pdftex.def)             Requested size: 398.33858pt x 204.37721pt.
- [14 <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/agent2.pn
-g>]
-<pic/module.png, id=64, 943.27406pt x 594.72188pt>
-File: pic/module.png Graphic file (type png)
- <use pic/module.png>
-Package pdftex.def Info: pic/module.png used on input line 298.
-(pdftex.def)             Requested size: 398.33858pt x 251.15176pt.
-
-[15 <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/module.png
->] [16] <pic/arch.png, id=71, 627.51512pt x 346.36719pt>
-File: pic/arch.png Graphic file (type png)
- <use pic/arch.png>
-Package pdftex.def Info: pic/arch.png used on input line 321.
-(pdftex.def)             Requested size: 341.43306pt x 188.46248pt.
-
-[17
-
- <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/arch.png>] [1
-8] <pic/test.png, id=79, 611.28375pt x 415.5525pt>
-File: pic/test.png Graphic file (type png)
- <use pic/test.png>
-Package pdftex.def Info: pic/test.png used on input line 407.
-(pdftex.def)             Requested size: 398.33858pt x 270.79073pt.
-
-[19] <pic/test1.png, id=87, 625.21953pt x 156.585pt>
-File: pic/test1.png Graphic file (type png)
- <use pic/test1.png>
-Package pdftex.def Info: pic/test1.png used on input line 425.
-(pdftex.def)             Requested size: 341.43306pt x 85.51512pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pic/test2.png, id=88, 654.13615pt x 140.83385pt>
+[17
+
+] <pic/agent2.png, id=80, 614.295pt x 315.1775pt>
+File: pic/agent2.png Graphic file (type png)
+ <use pic/agent2.png>
+Package pdftex.def Info: pic/agent2.png used on input line 415.
+(pdftex.def)             Requested size: 398.33858pt x 204.37721pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18 <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/agent1.png
+>] <pic/module.png, id=85, 943.27406pt x 594.72188pt>
+File: pic/module.png Graphic file (type png)
+ <use pic/module.png>
+Package pdftex.def Info: pic/module.png used on input line 435.
+(pdftex.def)             Requested size: 398.33858pt x 251.15176pt.
+
+[19 <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/agent2.png
+> <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/module.png>]
+[20] <pic/arch.png, id=93, 627.51512pt x 346.36719pt>
+File: pic/arch.png Graphic file (type png)
+ <use pic/arch.png>
+Package pdftex.def Info: pic/arch.png used on input line 462.
+(pdftex.def)             Requested size: 341.43306pt x 188.46248pt.
+
+[21
+
+ <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/arch.png>] [2
+2] <pic/module2.png, id=101, 924.45375pt x 511.9125pt>
+File: pic/module2.png Graphic file (type png)
+
+<use pic/module2.png>
+Package pdftex.def Info: pic/module2.png used on input line 517.
+(pdftex.def)             Requested size: 398.33858pt x 220.57893pt.
+ [23 <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/module2.p
+ng>] <pic/test.png, id=105, 611.28375pt x 415.5525pt>
+File: pic/test.png Graphic file (type png)
+
+<use pic/test.png>
+Package pdftex.def Info: pic/test.png used on input line 545.
+(pdftex.def)             Requested size: 398.33858pt x 270.79073pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pic/test1.png, id=106, 625.21953pt x 156.585pt>
+File: pic/test1.png Graphic file (type png)
+ <use pic/test1.png>
+Package pdftex.def Info: pic/test1.png used on input line 563.
+(pdftex.def)             Requested size: 341.43306pt x 85.51512pt.
+ [24]
+<pic/test2.png, id=110, 654.13615pt x 140.83385pt>
 File: pic/test2.png Graphic file (type png)
  <use pic/test2.png>
-Package pdftex.def Info: pic/test2.png used on input line 437.
+Package pdftex.def Info: pic/test2.png used on input line 575.
 (pdftex.def)             Requested size: 341.43306pt x 73.50906pt.
- [20 <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/test.png>
-] [21 <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/test1.pn
-g> <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/test2.png>]
- [22
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25 <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/test.png> 
+<C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/test1.png>]
+[26 <C:/Users/admin/Desktop/РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ/pic/test2.png>
+] [27
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 461--463
+Underfull \hbox (badness 10000) in paragraph at lines 612--614
 []\T2A/cmr/m/it/12 Аналитический Центр InfoWatch, Без-опас-ность ин-фор-ма-ции 
 в
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 461--463
+Underfull \hbox (badness 10000) in paragraph at lines 612--614
 \T2A/cmr/m/it/12 кор-по-ра-тив-ных ин-фор-ма-ци-он-ных си-сте-мах. Внут-рен-ние
  угро-зы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 475--477
+Underfull \hbox (badness 10000) in paragraph at lines 626--628
 []\T2A/cmr/m/it/12 text\T2A/cmr/m/n/12 122. Component overview (IBM Watson Cont
 ent Analytics 3.5.0)
  []
 
 
-Overfull \hbox (233.67612pt too wide) in paragraph at lines 475--477
+Overfull \hbox (233.67612pt too wide) in paragraph at lines 626--628
 \T2A/cmr/m/n/12 (http://www-01.ibm.com/support/knowledgecenter/SS5RWK_3.5.0/com
 .ibm.discovery.es.nav.doc/iiysaovcomp.htm?lang=en) 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 478--480
+Underfull \hbox (badness 10000) in paragraph at lines 629--631
 []\T2A/cmr/m/it/12 Официальная до-ку-мен-та-ция IBM в Ин-тер-нет \T2A/cmr/m/n/1
 2 (http://www-
  []
 
 
-Overfull \hbox (162.86703pt too wide) in paragraph at lines 478--480
+Overfull \hbox (162.86703pt too wide) in paragraph at lines 629--631
 \T2A/cmr/m/n/12 01.ibm.com/support/knowledgecenter/SS5RWK_3.5.0/com.ibm.discove
 ry.es.nav.doc/iiysaovcomp.htm?lang=en) 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 481--483
+Underfull \hbox (badness 10000) in paragraph at lines 632--634
 []\T2A/cmr/m/it/12 Content Analytics. Офи-ци-аль-ный сайт OpenText в Ин-тер-нет
 
  []
 
 
-Underfull \hbox (badness 3884) in paragraph at lines 487--489
+Underfull \hbox (badness 3884) in paragraph at lines 641--643
 []\T2A/cmr/m/it/12 Using the Taxonomy Proposer to discover new categories \T2A/
 cmr/m/n/12 (http://www-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 493--495
+Underfull \hbox (badness 1342) in paragraph at lines 647--649
+[]\T2A/cmr/m/it/12 Boutell M. R., Luo J., Shen X., Brown C.M. Learning multi-la
+bel scene
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 650--652
 []\T2A/cmr/m/it/12 Асинхронный со-кет сер-вер \T2A/cmr/m/n/12 (https://msdn.mic
 rosoft.com/ru-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--501
+Overfull \hbox (2.16904pt too wide) in paragraph at lines 653--655
+[]\T2A/cmr/m/it/12 Document Object Model \T2A/cmr/m/n/12 https://ru.wikipedia.o
+rg/wiki/Document_Object_Model 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 659--661
 []\T2A/cmr/m/it/12 Create and run unit tests. \T2A/cmr/m/n/12 (https://www.visu
 alstudio.com/en-us/get-
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 502--504
+Underfull \hbox (badness 2856) in paragraph at lines 662--664
 []\T2A/cmr/m/it/12 Walkthrough: Creating and Running a Load Test Containing Uni
 t Tests
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 508--510
+Underfull \hbox (badness 1603) in paragraph at lines 668--670
 []\T2A/cmr/m/it/12 Schapire R. E., Singer Y. BoosTexter \T2A/cmr/m/n/12 A boost
 ing-based system for text
  []
 
-
-AED: lastpage setting LastPage
-[23
+[28
 
 ]
+Underfull \hbox (badness 4048) in paragraph at lines 686--688
+[]\T2A/cmr/m/n/12 P.V. Rao and L.L. Kupper. Ties in paired-comparison experimen
+ts A
+ []
+
+
+AED: lastpage setting LastPage
+[29]
 ("C:\Users\admin\Desktop\РўРµРєСЃС‚ Рё РїСЂРµР·РµРЅС‚Р°С†РёСЏ\С‚РµРєСЃС‚_РґРёРї
 Р»РѕРјР°_РўСЂРµСЃРєРѕ.aux")
 
@@ -1280,20 +1322,17 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6866 strings out of 493921
- 102334 string characters out of 3144876
- 174909 words of memory out of 3000000
- 9942 multiletter control sequences out of 15000+200000
- 19698 words of font info for 42 fonts, out of 3000000 for 9000
+ 6919 strings out of 493921
+ 102826 string characters out of 3144876
+ 175960 words of memory out of 3000000
+ 9980 multiletter control sequences out of 15000+200000
+ 27504 words of font info for 67 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 50i,11n,42p,1192b,452s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 50i,12n,42p,1192b,452s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\admin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
 ti1200.pk> <C:\Users\admin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\d
 pi600\labx1728.pk> <C:\Users\admin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\
@@ -1304,13 +1343,22 @@ ts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\admin\AppData\Local\MiKTeX
 l\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk> <C:\Users\admin\AppD
 ata\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk> <C:\Users\ad
 min\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lacc1440.pk><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on С‚РµРєСЃС‚_РґРёРїР»РѕРјР°_РўСЂРµСЃРєРѕ.pdf (23 pages, 638342 
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on С‚РµРєСЃС‚_РґРёРїР»РѕРјР°_РўСЂРµСЃРєРѕ.pdf (29 pages, 822087 
 bytes).
 PDF statistics:
- 717 PDF objects out of 1000 (max. 8388607)
+ 779 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
